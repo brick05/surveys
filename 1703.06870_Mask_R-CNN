@@ -1,0 +1,29 @@
+Mask R-CNN
+===
+
+Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick
+
+https://arxiv.org/abs/1703.06870
+
+(まとめ：河内）
+
+---
+
+## どんなもの？
+Faster R-CNNを拡張し、bounding box用のマスク分岐を並列に用意した。
+---
+
+## どうやって有効だと検証した？
+
+---
+
+## 技術や手法の肝は？
+---
+
+## 議論はある？
+---
+
+## 先行研究と比べて何がすごい？
+---
+
+## 次に読むべき論文は？
